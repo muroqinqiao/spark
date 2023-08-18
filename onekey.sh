@@ -39,6 +39,7 @@ else
 	echo "暂不支持的雷达：${TYPE_LIDAR}，使用默认的杉川雷达运行"
 	LIDARTYPE="3iroboticslidar2"
 fi
+#wfwe
 
 #检查系统要求
 check_sys(){
